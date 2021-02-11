@@ -1,15 +1,13 @@
-### Date created
-Include the date you created this project and README file.
-
+### Date created  
+11/2/2021
 ### Project Title
-Replace the Project Title
-
+github project
 ### Description
 Describe what your project is about and what it does
 
 ### Files used
 Include the files used
 
-### Credits
+i### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
