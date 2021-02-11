@@ -1,9 +1,9 @@
 ### Date created  
 11/2/2021
 ### Project Title
-github project
+github project using gitbash commaned line
 ### Description
-Describe what your project is about and what it does
+create githop profile linked with bikeshare project
 
 ### Files used
 Include the files used
