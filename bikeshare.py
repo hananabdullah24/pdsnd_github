@@ -203,7 +203,7 @@ def display_row(df):
         view_row = input('\nWould you like to view more of trip  data? \n please Enter yes or no.\n')
         if view_row.lower() != 'yes':
             return
-        next_rows = next_rows + 5
+        next_rows = next_rows + 8
         print(" Here is the rows you want to Display :\n",df.iloc[next_rows:next_rows+5])
 def main():
     while True:
